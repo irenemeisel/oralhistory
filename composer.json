@@ -19,10 +19,12 @@
         "civicrm/civicrm-drupal-8": "^5.73",
         "civicrm/civicrm-packages": "^5.73",
         "composer/installers": "^2.0",
+        "drupal/bootstrap_layout_builder": "^2.1",
         "drupal/core-composer-scaffold": "^10.2",
         "drupal/core-project-message": "^10.2",
         "drupal/core-recommended": "^10.2",
         "drupal/dxpr_theme": "^5.2",
+        "drupal/layout_builder_reorder": "^1.0",
         "drupal/views_slideshow": "^5.0",
         "drupal/webform": "^6.2",
         "drush/drush": "^12.5"
